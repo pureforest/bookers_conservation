@@ -1,4 +1,8 @@
 <body class="show_body">
+<% flash.each do |message_type, message| %>
+    <div class="show_flash"><%= message %></div>
+<% end %>
+
 <P class="show_table">
   <strong>Title:</strong>
   <%= @book.title %>

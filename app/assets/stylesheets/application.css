@@ -13,31 +13,61 @@
  *= require_tree .
  *= require_self
  */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+/** {*/
+/*  margin: 0;*/
+/*  padding: 0;*/
+/*  box-sizing: border-box;*/
+/*}*/
 
-.top_body{
-    margin: 33px;
-    line-height: 50px;
-}
+/*.top_body{*/
+/*    margin: 33px;*/
+/*    line-height: 50px;*/
+/*}*/
 
-.index_main{
-  margin: 30px ;
-  line-height: 50px;
-}
+/*.index_main{*/
+/*  margin: 30px ;*/
+/*  line-height: 50px;*/
+/*}*/
 
-.edit_body{
-  margin: 30px;
-}
+/*.table{*/
+/*  text-align: center;*/
+/*}*/
+/*.edit_body{*/
+/*  margin: 30px;*/
+/*}*/
 
-.show_body{
-  margin: 30px;
-  line-height: 50px
-}
+/*.show_body{*/
+/*  margin: 30px;*/
+/*  margin-bottom: 15px;*/
+/*}*/
 
-.show_table{
-  padding-left: 30px
-}
+/*.show_table{*/
+/*  padding-left: 30px;*/
+/*  margin-bottom: 15px;*/
+/*}*/
+
+/*.show_flash{*/
+/*  padding-left: 30px;*/
+/*  color: green;*/
+/*  margin-bottom: 15px;*/
+/*}*/
+
+/*.tr{*/
+  /*width: 5px;*/
+/*}*/
+
+/*.title{*/
+/*  width: 135px;*/
+/*}*/
+
+/*.body{*/
+/*  width: 270px;*/
+/*  line-height: 5px;*/
+/*}*/
+
+/*.index_show{*/
+/*  padding-right: 5px;*/
+/*}*/
+/*.index_edit{*/
+/*  padding-right: 5px;*/
+/*}*/
